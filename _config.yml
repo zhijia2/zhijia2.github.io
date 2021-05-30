@@ -15,10 +15,10 @@ highlighter: rouge
 
 
 ### content configuration ###
-title:       "Jin Li"
-keywords:    "Jin Li, Data Scientist"
+title:       "Zhijia Li"
+keywords:    "Civil Engineering"
 description: "homepage"
-source_link: "http://just4jin.github.io"
+source_link: "http://zhijia2.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: 
